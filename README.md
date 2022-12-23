@@ -8,14 +8,6 @@
 
 > In this project you will learn how to explore the content of the variable $_SERVER which is injected to the running script, in it we can find information about the server environment and the client.
 
-## Index <!-- omit in toc -->
-
-- [Requirements](#requirements)
-- [Repository](#repository)
-- [Technologies used](#technologies-used)
-- [Project delivery](#project-delivery)
-- [Resources](#resources)
-
 ## Requirements
 
 - Learn how to use the $_SERVER
